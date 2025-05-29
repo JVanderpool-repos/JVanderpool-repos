@@ -1,4 +1,4 @@
-# 👋 Hi, I'm JVanderpool
+# 👋 Hi, I'm John Vanderpool
 
 Welcome to my GitHub profile! I'm a passionate data analyst with a strong foundation in Python, data visualization, and storytelling through data. My projects reflect a commitment to clean code, reproducible workflows, and insightful analysis.
 
