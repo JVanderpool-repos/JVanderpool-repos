@@ -1,6 +1,8 @@
 # 👋 Hi, I'm JVanderpool
 
 Welcome to my GitHub profile! I'm a passionate data analyst with a strong foundation in Python, data visualization, and storytelling through data. My projects reflect a commitment to clean code, reproducible workflows, and insightful analysis.
+
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
