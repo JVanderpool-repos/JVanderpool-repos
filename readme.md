@@ -1,41 +1,65 @@
 # 👋 Hi, I'm John Vanderpool
 
-Welcome to my GitHub profile! I'm a passionate data analyst with a strong foundation in Python, data visualization, and storytelling through data. My projects reflect a commitment to clean code, reproducible workflows, and insightful analysis.
+# JVanderpool-repos
 
+👋 Hi, I'm a passionate developer with a strong interest in AI, data analysis, and building practical applications.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## Featured Projects
 
+### 🎮 [Videogame Guru](https://github.com/JVanderpool-repos/videogame_guru)
+An AI-powered video game assistant chatbot that helps users discover games, find real-time PC deals, check prices across stores, get expert rankings with cover art, and explore 40 years of historical sales data through natural conversation.
 
+**Key Highlights:**
+- LangChain ReAct agent with five specialized tools and intelligent routing
+- Multi-source integration (RAWG, CheapShark, IGDB, ChromaDB)
+- Clean full-stack setup with React 19 frontend and FastAPI backend
+- Robust error handling and conversational memory
+- One-command automation scripts for easy setup
 
-## 📌 Featured Projects
-
-### 🎮 [Video Game Sales Analysis](https://github.com/JVanderpool-repos/vg_sales)
-
+### 📊 [Video Game Sales Analysis](https://github.com/JVanderpool-repos/vg_sales)
 This capstone project for CODE:you delves into video game sales data to determine the most successful consoles and how specific regions or game genres contribute to overall success.
 
 **Key Highlights:**
-- **Data Exploration:** Utilized Jupyter notebooks to explore datasets containing sales information, including titles, genres, publishers, developers, total sales, and release dates.
-- **Data Cleaning:** Employed Python with Pandas to clean and preprocess the data.
-- **Visualization:** Leveraged Matplotlib and Seaborn to create compelling visualizations that highlight trends and insights.
+- Data exploration using Jupyter notebooks
+- Data cleaning with Python and Pandas
+- Visualization using Matplotlib and Seaborn
 
 ### 📺 [Breaking Bad Analysis](https://github.com/JVanderpool-repos/breaking_bad_analysis)
-
-An analytical deep dive into the IMDb ratings and viewership of all episodes of *Breaking Bad*, using a dataset sourced from Kaggle.
+An analytical deep dive into the IMDb ratings and viewership of all episodes of Breaking Bad.
 
 **Key Highlights:**
-- **Data Cleaning:** Standardized column names, converted date columns, and addressed missing values in viewership data.
-- **Feature Engineering:** Created combined 'Season Episode' identifiers and extracted season numbers to enhance analysis.
-- **Analysis & Visualization:**
-  - Plotted IMDb ratings by episode and season.
-  - Charted viewership trends across episodes.
-- **Findings:** Observed that IMDb ratings generally increased in later seasons, with several episodes rated exceptionally high. Notably, viewership peaked in the final season, indicating growing audience engagement.
+- Data cleaning and feature engineering with Pandas
+- Analysis of ratings and viewership trends
+- Visualization of key insights using Matplotlib and Seaborn
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
-- **Languages:** Python
-- **Libraries:** Pandas, Matplotlib, Seaborn
-- **Tools:** Jupyter Notebook, Git, GitHub
+### Programming Languages
+- **Python** – Core language used across all projects for data analysis, backend development, and AI agents
+- **JavaScript** – Frontend development with React
+- **SQL** – Database querying and analysis
+
+### AI & Machine Learning
+- **LangChain & LangGraph** – Building ReAct agents, tool orchestration, and conversational memory
+- **ChromaDB** – Vector databases and semantic search
+- **Sentence Transformers** – Text embeddings
+- **LLM Integration** – Working with GPT models via GitHub Models / Azure
+
+### Web Development
+- **FastAPI** – REST API development
+- **React 19 + Vite** – Modern frontend development
+- **React Markdown** – Rich content rendering
+
+### Data Science & Visualization
+- **Pandas** – Data cleaning and manipulation
+- **Matplotlib & Seaborn** – Data visualization
+- **Jupyter Notebooks** – Interactive analysis
+
+### DevOps & Automation
+- **Automation Scripts** – PowerShell and Bash for one-command setup
+- **Git & GitHub** – Version control and project documentation
+- **Virtual Environments** – Dependency management
+
+### Additional Practices
+- **AI Pair Programming** – Collaborative development using Claude Sonnet/CoPilot for code generation, debugging, and architectural guidance (with full review and ownership of all code)
+
